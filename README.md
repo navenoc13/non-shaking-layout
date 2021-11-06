@@ -1,2 +1,4 @@
-# non-shaking-layout
-Demontration of fixed layout and sticky footer to fix content jumping while loading content
+# Live Demo
+Initial version: [Demo1](https://navenoc13.github.io/non-shaking-layout/index.html)
+
+Fixed layout version: [Demo2](https://navenoc13.github.io/non-shaking-layout/index.html?fixed)
