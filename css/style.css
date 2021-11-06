@@ -1,0 +1,24 @@
+.navbar {
+    background: #ff7c49;
+}
+
+.content {
+    padding: 3rem 1rem;
+    text-align: center;
+}
+
+.footer {
+    background: #0db0e1;
+    padding: 1rem;
+}
+
+body.fixed {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    overflow-y: scroll;
+}
+
+body.fixed .main.container {
+    flex: 1;
+}
